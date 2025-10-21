@@ -1,0 +1,5 @@
+Benchmark,IPC,Execution Time,LSB Hits
+gramschmidt_trace,1,342204,7896
+gramschmidt_trace,2,342201,7897
+gramschmidt_trace,4,342201,7897
+gramschmidt_trace,8,342201,7897

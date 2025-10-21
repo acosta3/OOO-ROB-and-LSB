@@ -1,0 +1,37 @@
+Setting top to                           : /home/gp07/project-ooo-rob-and-lsb-project-group-09 
+Setting out to                           : /home/gp07/project-ooo-rob-and-lsb-project-group-09/build 
+Checking for 'gcc' (C compiler)          : /usr/bin/gcc 
+Checking for cc version                  : 11.4.0 
+Checking for 'g++' (C++ compiler)        : /usr/bin/g++ 
+Checking for compilation flag -Wl,--soname=foo support : ok 
+Checking for compilation flag -std=c++11 support       : ok 
+Checking boost includes                                : headers not found, please provide a --boost-includes argument (see help) 
+Checking boost includes                                : headers not found, please provide a --boost-includes argument (see help) 
+Checking for program 'python'                          : /usr/bin/python3 
+checking for uint128_t                                 : not found 
+checking for __uint128_t                               : yes 
+Checking high precision implementation                 : 128-bit integer (default) 
+Checking for header stdint.h                           : yes 
+Checking for header inttypes.h                         : yes 
+Checking for header sys/inttypes.h                     : not found 
+Checking for header sys/types.h                        : yes 
+Checking for header sys/stat.h                         : yes 
+Checking for header dirent.h                           : yes 
+Checking for header stdlib.h                           : yes 
+Checking for header signal.h                           : yes 
+Checking for header pthread.h                          : yes 
+Checking for header stdint.h                           : yes 
+Checking for header inttypes.h                         : yes 
+Checking for header sys/inttypes.h                     : not found 
+Checking for library rt                                : yes 
+Checking for program 'sudo'                            : /usr/bin/sudo 
+'configure' finished successfully (1.918s)
+Waf: Entering directory `/home/gp07/project-ooo-rob-and-lsb-project-group-09/build'
+Waf: Leaving directory `/home/gp07/project-ooo-rob-and-lsb-project-group-09/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.121s)
+DEBUG COH Protocol Name in XML header: MSI
+FSM path: /home/gp07/project-ooo-rob-and-lsb-project-group-09/Protocols_FSM/
+Cpu 0 Simulation End @ processor cycle # 982054
+Number of LSB Hits: 3302
+Current Simulation Done at Bus Clock Cycle # 982053

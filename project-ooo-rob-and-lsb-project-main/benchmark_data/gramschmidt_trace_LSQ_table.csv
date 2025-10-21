@@ -1,0 +1,7 @@
+Benchmark,LSQ,Execution Time,LSB Hits
+gramschmidt_trace,1,365892,0
+gramschmidt_trace,2,357993,2633
+gramschmidt_trace,4,350100,5264
+gramschmidt_trace,8,342201,7897
+gramschmidt_trace,16,334314,10526
+gramschmidt_trace,32,334314,10526

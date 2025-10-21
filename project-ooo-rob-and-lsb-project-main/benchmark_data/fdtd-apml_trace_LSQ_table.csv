@@ -1,0 +1,7 @@
+Benchmark,LSQ,Execution Time,LSB Hits
+fdtd-apml_trace,1,991959,0
+fdtd-apml_trace,2,988653,1102
+fdtd-apml_trace,4,988647,1104
+fdtd-apml_trace,8,985347,2204
+fdtd-apml_trace,16,982053,3302
+fdtd-apml_trace,32,982053,3302

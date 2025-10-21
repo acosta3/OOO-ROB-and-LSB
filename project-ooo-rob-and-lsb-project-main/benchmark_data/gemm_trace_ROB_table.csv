@@ -1,0 +1,4 @@
+Benchmark,ROB,Execution Time,LSB Hits
+gemm_trace,8,302755,10002
+gemm_trace,16,302746,10005
+gemm_trace,32,272251,20002

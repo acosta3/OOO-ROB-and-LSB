@@ -1,0 +1,7 @@
+Benchmark,LSQ,Execution Time,LSB Hits
+gemm_trace,1,332761,0
+gemm_trace,2,317749,5004
+gemm_trace,4,302755,10002
+gemm_trace,8,272251,20002
+gemm_trace,16,272251,20002
+gemm_trace,32,272251,20002

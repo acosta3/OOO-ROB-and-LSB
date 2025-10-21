@@ -1,0 +1,7 @@
+Benchmark,LSQ,Execution Time,LSB Hits
+doitgen_trace,1,259614,0
+doitgen_trace,2,248832,3594
+doitgen_trace,4,248832,3594
+doitgen_trace,8,227457,10740
+doitgen_trace,16,227457,10740
+doitgen_trace,32,227457,10740

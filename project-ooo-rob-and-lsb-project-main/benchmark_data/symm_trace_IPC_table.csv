@@ -1,0 +1,5 @@
+Benchmark,IPC,Execution Time,LSB Hits
+symm_trace,1,360705,8338
+symm_trace,2,360705,8338
+symm_trace,4,360699,8340
+symm_trace,8,360699,8340

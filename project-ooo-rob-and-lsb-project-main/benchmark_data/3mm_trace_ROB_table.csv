@@ -1,0 +1,4 @@
+Benchmark,ROB,Execution Time,LSB Hits
+3mm_trace,8,369045,5558
+3mm_trace,16,369039,5560
+3mm_trace,32,360699,8340

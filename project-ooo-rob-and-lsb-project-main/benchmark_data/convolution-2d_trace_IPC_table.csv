@@ -1,0 +1,5 @@
+Benchmark,IPC,Execution Time,LSB Hits
+convolution-2d_trace,1,224168,6677
+convolution-2d_trace,2,180270,19046
+convolution-2d_trace,4,180270,19046
+convolution-2d_trace,8,180270,19046

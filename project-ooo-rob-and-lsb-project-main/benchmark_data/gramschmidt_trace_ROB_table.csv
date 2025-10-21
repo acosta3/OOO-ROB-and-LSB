@@ -1,0 +1,4 @@
+Benchmark,ROB,Execution Time,LSB Hits
+gramschmidt_trace,8,350100,5264
+gramschmidt_trace,16,350097,5265
+gramschmidt_trace,32,342201,7897

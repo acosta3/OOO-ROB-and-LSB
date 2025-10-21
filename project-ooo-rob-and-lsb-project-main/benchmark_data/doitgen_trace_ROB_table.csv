@@ -1,0 +1,4 @@
+Benchmark,ROB,Execution Time,LSB Hits
+doitgen_trace,8,248832,3594
+doitgen_trace,16,238092,7174
+doitgen_trace,32,227457,10740

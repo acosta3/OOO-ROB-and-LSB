@@ -1,0 +1,7 @@
+Benchmark,LSQ,Execution Time,LSB Hits
+3mm_trace,1,385719,0
+3mm_trace,2,377376,2781
+3mm_trace,4,369045,5558
+3mm_trace,8,360699,8340
+3mm_trace,16,352377,11114
+3mm_trace,32,352377,11114

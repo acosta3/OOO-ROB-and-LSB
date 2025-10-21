@@ -1,0 +1,4 @@
+Benchmark,ROB,Execution Time,LSB Hits
+convolution-2d_trace,8,209622,9524
+convolution-2d_trace,16,209619,9525
+convolution-2d_trace,32,180270,19046

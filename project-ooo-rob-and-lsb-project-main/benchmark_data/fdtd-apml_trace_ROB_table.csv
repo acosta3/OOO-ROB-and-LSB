@@ -1,0 +1,4 @@
+Benchmark,ROB,Execution Time,LSB Hits
+fdtd-apml_trace,8,988647,1104
+fdtd-apml_trace,16,985353,2202
+fdtd-apml_trace,32,985347,2204

@@ -1,0 +1,5 @@
+Benchmark,IPC,Execution Time,LSB Hits
+gemver_trace,1,305725,8841
+gemver_trace,2,272219,19998
+gemver_trace,4,272219,19998
+gemver_trace,8,272219,19998

@@ -1,0 +1,4 @@
+Benchmark,ROB,Execution Time,LSB Hits
+symm_trace,8,369045,5558
+symm_trace,16,369039,5560
+symm_trace,32,360699,8340

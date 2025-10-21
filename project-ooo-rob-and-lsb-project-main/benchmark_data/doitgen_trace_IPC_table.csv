@@ -1,0 +1,5 @@
+Benchmark,IPC,Execution Time,LSB Hits
+doitgen_trace,1,254312,5013
+doitgen_trace,2,227457,10740
+doitgen_trace,4,227457,10740
+doitgen_trace,8,227457,10740
